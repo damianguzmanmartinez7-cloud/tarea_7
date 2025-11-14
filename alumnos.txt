@@ -1,0 +1,44 @@
+Nombre: Adrian Ruiz Guzman
+Calificaciones: 100.00 95.00 98.00
+Promedio: 97.67
+
+Nombre: Angel Gutierrez Martinez
+Calificaciones: 98.00 67.00 93.00
+Promedio: 86.00
+
+Nombre: Jessica Rojas Herrera
+Calificaciones: 46.00 73.00 29.00
+Promedio: 49.33
+
+Nombre: Natzielly Rodriguez Castro
+Calificaciones: 100.00 83.00 74.00
+Promedio: 85.67
+
+Nombre: Jorge Sanchez Lopez
+Calificaciones: 38.00 29.00 18.00
+Promedio: 28.33
+
+Nombre: Monica Oropeza Toral
+Calificaciones: 47.00 85.00 29.00
+Promedio: 53.67
+
+Nombre: Oswaldo Romero Cruz
+Calificaciones: 100.00 85.00 93.00
+Promedio: 92.67
+
+Nombre: Santiago Jimenez Reyes
+Calificaciones: 58.00 96.00 75.00
+Promedio: 76.33
+
+Nombre: Maria Vargas Vazquez
+Calificaciones: 76.00 95.00 40.00
+Promedio: 70.33
+
+Nombre: Hermenegilda Mijangos Contreras
+Calificaciones: 96.00 39.00 100.00
+Promedio: 78.33
+
+Nombre: drian Ruiz Guzman
+Calificaciones: 100.00 95.00 98.00
+Promedio: 97.67
+
